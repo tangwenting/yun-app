@@ -1,0 +1,36 @@
+
+.book_head {
+  padding: 20px 0;
+}
+.red {
+  color: #c52519;
+  font-size: 46px;
+  margin-right: 5px;
+}
+.booktest1 {
+  color: #c5261a;
+  font-size: 18px;
+}
+.booktest2 {
+  color: #faa39d;
+  font-size: 14px;
+}
+.book_more {
+  text-align: center;
+  font-size: 22px;
+  color: #666;
+  padding-bottom: 15px;
+}
+.book_more img {
+  width: 22px;
+  margin-left: 8px;
+}
+.list_wrap {
+  padding-bottom: 20px;
+}
+.tjbanner_img {
+  display: block;
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}

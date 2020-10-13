@@ -1,0 +1,64 @@
+.introduce_head {
+	padding: 25px 0;
+}
+.introduce_head span {
+	font-size: 22px;
+	color: #333;
+	display: inline-block;
+}
+.dateil_procedure_head {
+	text-align: center;
+	padding-bottom: 22px;
+}
+.dateil_procedure_tit {
+	font-size: 28px;
+	color: #333;
+	padding-bottom: 12px;
+}
+.dateil_procedure_date {
+	font-size: 18px;
+}
+.dateil_procedure_con_tit {
+	font-size: 22px;
+	padding-bottom: 30px;
+}
+.procedure_item_texts h6 {
+	font-size: 18px;
+	padding-bottom: 18px;
+	color: #333;
+	font-weight: 100;
+}
+.procedure_item_texts {
+	font-size: 16px;
+	line-height: 36px;
+}
+.procedure_item_texts p {
+	padding-top: 16px;
+}
+.procedure_item_img {
+	text-align: center;
+	padding: 40px 0;
+}
+.procedure_item_img img {
+	width: 50px;
+}
+.dateil_procedure_item:nth-last-child(2) .procedure_item_img {
+	display: none;
+}
+.procedure_upload {
+	font-size: 18px;
+	color: #333;
+	padding: 50px 0 20px;
+	text-align: center;
+}
+.procedure_upload span {
+	border-bottom: 1px solid #333;
+}
+.back {
+	position: fixed;
+	right: 0;
+	top: 160px;
+}
+.back img {
+	height: 65px;
+}

@@ -1,0 +1,53 @@
+.dateil_tit {
+  font-size: 26px;
+  color: #333;
+  text-align: center;
+  line-height: 40px;
+}
+.dateil_author {
+  text-align: center;
+}
+.dateil_author span {
+  display: inline-block;
+  font-size: 18px;
+  color: #999;
+  padding: 10px;
+}
+.dateil_texts {
+  font-size: 22px;
+  color: #333;
+  line-height: 40px;
+}
+.dateil_texts img {
+  display: block;
+  width: 100%;
+  margin: 30px 0;
+}
+.comment_forward img {
+  height: 25px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+.comment_forward span {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 22px;
+  color: #333;
+  padding: 0 35px 0 3px;
+}
+.comment_forward {
+  padding-bottom: 20px;
+}
+.dateil_recomm_tit {
+  font-size: 26px;
+  color: #333;
+  padding-bottom: 22px;
+}
+.dateil_recomm {
+  padding-top: 30px;
+}
+.dateil_newest {
+  padding-top: 0;
+}
+

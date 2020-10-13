@@ -1,0 +1,95 @@
+.forum_head {
+  font-size: 26px;
+  color: #333;
+  padding: 20px 0;
+}
+.my_forum_time {
+  color: #333;
+  border: 1px solid #C6291D;
+  text-align: center;
+  width: 180px;
+  margin-right: 20px;
+}
+.my_forum_time p {
+  font-size: 20px;
+  padding: 15px 0;
+  border-bottom: 1px solid #C6291D;
+}
+.my_forum_sort {
+  font-size: 50px;
+  padding: 15px 0;
+}
+.my_forum_con {
+  width: calc(100% - 208px);
+}
+.my_forum_tit {
+  font-size: 24px;
+  color: #333;
+  font-weight: 600;
+  position: relative;
+  padding-bottom: 18px;
+  margin-bottom: 10px;
+}
+.my_forum_tit::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100px;
+  height: 2px;
+  background: #C6291D;
+
+}
+.my_forum_txt {
+  font-size: 22px;
+  color: #333;
+  line-height: 36px;
+}
+.my_forum_from {
+  font-size: 20px;
+  color: #999;
+}
+.my_forum_icon img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 24px;
+}
+.my_forum_icon span {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.my_forum_forward {
+  padding-top: 8px;
+}
+.my_forum {
+  padding: 20px 0 30px;
+  border-bottom: 1px solid #ECECEC;
+}
+.my_forum_more {
+  font-size: 22px;
+  text-align: center;
+  padding: 30px 0;
+}
+.my_forum_more img {
+  height: 18px;
+  padding: 0 3px;
+}
+.all_tits .my_forum_tit {
+  width: 50%;
+}
+.all_lz {
+  font-size: 22px;
+}
+.follow {
+  padding: 4px 8px;
+  border: 1px solid #C6291D;
+  border-radius: 30px;
+  margin-left: 8px;
+  font-size: 20px;
+}
+.forum_common {
+  padding: 30px 0;
+}
